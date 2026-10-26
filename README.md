@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 Executive Profile
+### 🚀 About me
 
 I am a **Senior DevOps Engineer & Cloud Architect** specializing in large-scale cloud transformations, enterprise landing zones, and automated DevSecOps ecosystems.
 
@@ -113,16 +113,7 @@ I actively integrate modern AI architectures into enterprise platform engineerin
 * **Cloud FinOps Excellence:** Systemic rightsizing, automated start/stop of non-prod workloads, RI/Savings Plans, and granular log ingestion filtering.
 * **Delivery Governance & Leadership:** Technical pre-sales (RFPs/RFIs), Statement of Work (SOW) negotiations, vendor SLA tracking, and cross-functional team mentorship.
 
----
 
-### 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vikas09998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas09998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
-
-</div>
 
 ---
 
